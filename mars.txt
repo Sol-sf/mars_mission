@@ -1,1 +1,2 @@
 Mars is the target planet for this mission.
+We should go there.
